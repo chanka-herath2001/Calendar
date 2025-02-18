@@ -70,7 +70,7 @@ const App = () => {
           fontFamily: "Poppins",
         }}
       >
-        Soup Advent Calendar
+        Soup Calendar
       </Typography>
 
       {/* Search Bar */}
